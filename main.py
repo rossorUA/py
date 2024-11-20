@@ -1,5 +1,5 @@
 first_num = 14   #int
-second_num = 87
+second_num = 66
 
 some_text='my text'   #str
 
